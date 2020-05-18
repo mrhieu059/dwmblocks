@@ -3,6 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{" ", "song_Info",						5,		0},
 	{" ", "vpn",						5,		0},
+	{" ", "/home/cinux/.local/bin/torupdo.sh",						3,		0},
 	{" ", "ssid",						5,		0},
 	{" ", "volume",						0,		10},
 	{" ", "light.sh",						0,		10},
