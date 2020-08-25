@@ -2,8 +2,8 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{" ", "$HOME/.local/dot/myscript/redshift_status.sh",					360,		0},
-	{" ", "$HOME/.local/dot/myscript/sync_status.sh",					360,		0},
-	{" ", "$HOME/.local/dot/myscript/docker_status.sh",					360,		0},
+	//{" ", "$HOME/.local/dot/myscript/sync_status.sh",					360,		0},
+	//{" ", "$HOME/.local/dot/myscript/docker_status.sh",					360,		0},
 	{" ", "$HOME/.local/dot/myscript/ssid.sh",						15,		0},
 	{" ", "$HOME/.local/dot/myscript/soundcard.sh",						0,		12},
 	{" ", "$HOME/.local/dot/myscript/light.sh",						0,		10},
